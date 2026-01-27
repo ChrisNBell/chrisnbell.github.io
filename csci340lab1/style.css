@@ -1,3 +1,36 @@
+.header{
+    display:flex;
+    justify-content: center;
+    padding:10px;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.container{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    border: 3px solid gray;
+    padding:10px;
+    font-family: 'Libre Baskerville', serif;
+}
+
 .row{
-    align-content: center;
+    display: flex;
+    justify-content: center;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: darkslategrey;
+    text-decoration:double;
+    font-weight:bold;
+}
+
+.footer{
+    padding:10px;
+    font-family: 'Libre Baskerville', serif;
+    margin-top: 5%;
+    
 }
