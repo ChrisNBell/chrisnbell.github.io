@@ -46,7 +46,8 @@ p{
 }
 
 body{
-    background-color: aliceblue;
+    color: white;
+    background: linear-gradient(to bottom, lightgray, rgb(194, 205, 255));
 }
 
 .img-fluid#img-1{
