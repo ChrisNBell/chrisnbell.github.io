@@ -50,7 +50,7 @@ body{
     background: linear-gradient(to bottom, lightgray, rgb(172, 199, 199));
 }
 
-.img-fluid#img-1{
+.img-fluid#img-1, #img-3{
     margin-right:5%;
 }
 
