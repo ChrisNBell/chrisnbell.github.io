@@ -1,1 +1,1 @@
-# chrisnbell.githib.io
+# chrisnbell.github.io
