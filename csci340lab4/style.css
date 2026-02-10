@@ -1,0 +1,11 @@
+h2{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+#col-4{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
