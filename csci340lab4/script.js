@@ -30,12 +30,12 @@ $(document).ready(function() {
      function chooseNumber(choice){
         if (choice < 0.5){
             getKanyeQuote().then(function (quote) {
-                $("#quote").text(quote);
+                $("#quote").text("''" + quote + "''");
             });
         }
         if (choice >= 0.5){
             getStrangerThingsQuote().then(function (quote){
-                $("#quote").text(quote);
+                $("#quote").text("''" + quote + "''");
             });
         }
     }
